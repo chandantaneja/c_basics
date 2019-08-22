@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537595102 source:d:\programming in c\practice10\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
